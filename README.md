@@ -108,8 +108,8 @@ In future iterations of this project, I plan to:
 Feel free to reach out to me for any questions, suggestions, or collaboration opportunities!
 
 - **Name**: Bhushan Gawali
-- **WhatsApp**: [Bhushan148](http://Wa.me/+917743927365)
-- **Email**: [YourEmail@example.com](bhushanjg14@gmail.com)
+- **WhatsApp**: [+91 7743927365](http://Wa.me/+917743927365)
+- **Email**: [bhushanjg14@gmail.com](bhushanjg14@gmail.com)
 
 ---
 
