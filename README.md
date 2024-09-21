@@ -88,9 +88,9 @@ Through this project, I gained the following skills and knowledge:
 
 ## 📄 Project Files and Resources
 
-- **[Download the Tableau Project File](#)** (.twb/.twbx)
-- **[Download SQL Queries Document](#)** (PDF containing the SQL queries used for data preparation)
-- **[Download Full Project Report](#)** (Detailed PDF report with findings and analysis)
+- **[Download SQL Queries Document](https://github.com/Bhushan148/Finance-Domain-Bank-Loan-Report-Tableau/blob/main/Project%20SQL%20Queries.pdf)** (PDF containing the SQL queries used for data preparation)
+- **[Download Full Project Report](https://github.com/Bhushan148/Finance-Domain-Bank-Loan-Report-Tableau/blob/main/Tableau%20Finannce%20Dashboard.pdf)** (Detailed PDF report with findings and analysis)
+- **[Dataset](https://github.com/Bhushan148/Finance-Domain-Bank-Loan-Report-Tableau/blob/main/Other%20Resources/financial_loan.csv)** (CSV File)
 
 ---
 
